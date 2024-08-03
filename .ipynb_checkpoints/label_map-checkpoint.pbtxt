@@ -1,0 +1,8 @@
+item {
+  id: 1
+  name: "wbc"
+}
+item {
+  id: 2
+  name: "rbc"
+}

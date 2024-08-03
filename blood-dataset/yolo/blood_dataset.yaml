@@ -1,0 +1,7 @@
+path: yolo
+train: train/images
+val: eval/images
+
+# Classes
+nc: 2  # number of classes
+names: ['wbc', 'rbc']  # class names
